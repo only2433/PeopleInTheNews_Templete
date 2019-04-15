@@ -1,0 +1,4 @@
+#Mon Apr 15 14:54:51 KST 2019
+base.0=D\:\\android_studio_workspace\\PeopleInTheNews_Templete\\peopleInTheNews\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

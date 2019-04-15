@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">354898877189-9h754mcoha5m7j8u7s3tqg0gvgdf0s4o.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://storybook-peopleinthenews.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">354898877189</string>
+    <string name="google_api_key" translatable="false">AIzaSyAWUFenyD7UIIZU6YUrOLLbD0T20RBFMrI</string>
+    <string name="google_app_id" translatable="false">1:354898877189:android:45b9dd4df26887bd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAWUFenyD7UIIZU6YUrOLLbD0T20RBFMrI</string>
+    <string name="google_storage_bucket" translatable="false">storybook-peopleinthenews.appspot.com</string>
+    <string name="project_id" translatable="false">storybook-peopleinthenews</string>
+</resources>
